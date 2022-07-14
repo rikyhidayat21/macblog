@@ -1,7 +1,6 @@
-# README
+# MACBLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Macblog is an web apps for engineer to create blog easily.
 
 Things you may want to cover:
 
